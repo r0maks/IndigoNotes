@@ -1,0 +1,8 @@
+target 'iPhoneProject' do
+project '/Users/romaks/Documents/iPhoneProject/iPhoneProject.xcodeproj'
+use_frameworks!
+pod 'IQKeyboardManagerSwift'
+pod 'SQLite.swift', '~> 0.11.3'
+pod 'SearchTextField'
+pod 'BadgeSwift', '~> 5.0'
+end

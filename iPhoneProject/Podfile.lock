@@ -1,0 +1,23 @@
+PODS:
+  - BadgeSwift (5.0.1)
+  - IQKeyboardManagerSwift (4.0.9)
+  - SearchTextField (1.1.0)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+
+DEPENDENCIES:
+  - BadgeSwift (~> 5.0)
+  - IQKeyboardManagerSwift
+  - SearchTextField
+  - SQLite.swift (~> 0.11.3)
+
+SPEC CHECKSUMS:
+  BadgeSwift: 3defa56f504bfb46f2300122c4a565ec9e405c1e
+  IQKeyboardManagerSwift: 2eefe6c429b86aa08bfbc1b5c891164d754adf91
+  SearchTextField: 5daab6cecfd90e06f9b08b2814593656c0c99f3d
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+
+PODFILE CHECKSUM: 3876c1c86f30312d32c4238c5ac116f41fd5a458
+
+COCOAPODS: 1.2.1
